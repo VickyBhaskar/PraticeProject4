@@ -1,0 +1,14 @@
+D:\Training\OOPSystemForStoringStudentData\OOPSystemForStoringStudentData\bin\Debug\OOPSystemForStoringStudentData.exe.config
+D:\Training\OOPSystemForStoringStudentData\OOPSystemForStoringStudentData\bin\Debug\OOPSystemForStoringStudentData.exe
+D:\Training\OOPSystemForStoringStudentData\OOPSystemForStoringStudentData\bin\Debug\OOPSystemForStoringStudentData.pdb
+D:\Training\OOPSystemForStoringStudentData\OOPSystemForStoringStudentData\obj\Debug\OOPSystemForStoringStudentData.csproj.AssemblyReference.cache
+D:\Training\OOPSystemForStoringStudentData\OOPSystemForStoringStudentData\obj\Debug\OOPSystemForStoringStudentData.csproj.CoreCompileInputs.cache
+D:\Training\OOPSystemForStoringStudentData\OOPSystemForStoringStudentData\obj\Debug\OOPSystemForStoringStudentData.exe
+D:\Training\OOPSystemForStoringStudentData\OOPSystemForStoringStudentData\obj\Debug\OOPSystemForStoringStudentData.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Project4\OOPSystemForStoringStudentData\bin\Debug\OOPSystemForStoringStudentData.exe.config
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Project4\OOPSystemForStoringStudentData\bin\Debug\OOPSystemForStoringStudentData.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Project4\OOPSystemForStoringStudentData\bin\Debug\OOPSystemForStoringStudentData.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Project4\OOPSystemForStoringStudentData\obj\Debug\OOPSystemForStoringStudentData.csproj.AssemblyReference.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Project4\OOPSystemForStoringStudentData\obj\Debug\OOPSystemForStoringStudentData.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Project4\OOPSystemForStoringStudentData\obj\Debug\OOPSystemForStoringStudentData.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Project4\OOPSystemForStoringStudentData\obj\Debug\OOPSystemForStoringStudentData.pdb
